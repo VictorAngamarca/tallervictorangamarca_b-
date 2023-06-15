@@ -11,4 +11,4 @@ Instalacion y configuracion de entorno de desarrollo
 
 ## Funcionamiento
 
-![]img/![Alt text](image.png)
+![]img[Alt text](009b50duvls11.jpg)
