@@ -11,4 +11,4 @@ Instalacion y configuracion de entorno de desarrollo
 
 ## Funcionamiento
 
-![](/![Alt text](image-1.png)
+![](img/_100697566_hi045932006.jpg)
